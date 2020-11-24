@@ -1,2 +1,3 @@
 # patients-as-bots
-An A.I bot that acts a virtual patients for medical students to practise clee
+An A.I bot that acts as a virtual patients for medical students to practice clerking and counseling.
+
